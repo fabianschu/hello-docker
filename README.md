@@ -6,7 +6,7 @@
 For publishing the container (on docker hub):
 
 - tag the container: `docker tag hello-docker YOUR-USER-NAME/hello-docker`
-- push container to docker hub: `cker push YOUR-USER-NAME/hello-docker`
+- push container to docker hub: `docker push YOUR-USER-NAME/hello-docker`
 
 Running the published container:
 
